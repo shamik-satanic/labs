@@ -1,0 +1,3 @@
+C:/Users/шамиль/Desktop/02_irb/cmake-build-debug/CMakeFiles/02_irb.dir
+C:/Users/шамиль/Desktop/02_irb/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/шамиль/Desktop/02_irb/cmake-build-debug/CMakeFiles/rebuild_cache.dir
